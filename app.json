@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/tery1e/005good",
-  "repository": "https://github.com/tery1e/005good",
+  "website": "https://github.com/lookui/yello",
+  "repository": "https://github.com/lookui/yello",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
